@@ -25,6 +25,7 @@ export default function Home() {
             pages/index.js
           </code>
         </p>
+
         <Links />
       </main>
 
