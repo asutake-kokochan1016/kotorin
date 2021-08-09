@@ -1,5 +1,4 @@
 import React from 'react';
-import { Footer } from '../compornents/Footer';
 
 export default function Links() {
   return (
